@@ -3,4 +3,4 @@
 
 import os
 
-AWS_ACCESS_KEY_ID = "AKIAIOSFOiuhwfiehsonfoefXesfMPLE"
+AWS_SECRET_ACCESS_KEY = "abcdefghijklmnopqrstuvwxyz1234567890ABCD"
